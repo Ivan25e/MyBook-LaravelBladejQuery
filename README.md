@@ -1,0 +1,2 @@
+# MyBook-LaravelBladejQuery
+MyBook is a simple web software that lets the user register, login and logout. Any user can promote their books through the platform. The user can add, edit and delete books. Any person (with and without a registered user) can search books. The idea is to create the same software by using different technologies as part of a portfolio. In this repository I use Laravel (Blade templates) with jQuery and AJAX.
